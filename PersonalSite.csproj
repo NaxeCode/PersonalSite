@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="DartSassBuilder" Version="1.1.0" />
+  </ItemGroup>
+
 </Project>
